@@ -1,1 +1,16 @@
 
+A simple calculator
+
+Your calculator should provide the following arithmetic and control operations.
+
+  Arithmetic Operations
+      Addition (+)                  add(a,b)
+      Subtraction (-)               subtract(a,b)
+      Multiplication (*)            multiply(a,b)
+      Division (/)                  divide(a,b)
+      Power (^)                     power(a,b)
+      Remainder (%)                 remainder(a,b)
+
+  Control Operations
+      Terminate (#)
+      Reset ($)
