@@ -1,1 +1,5 @@
 
+implement a history() function to handle the operation '?'
+
+      Display the complete saved list of operations (in the order of execution) using a new command ‘?’
+      If there are no previous calculations when the history '?' command is used, you can display the following message                                 "No past calculations to show"
